@@ -1,0 +1,79 @@
+h1{
+  text-align: center;
+  font-weight: 400px;
+  font-family: 'Linux Libertine','Georgia', 'Times';
+  letter-spacing: 2px;
+  color:yellow;
+  text-shadow: 2px 2px goldenrod;
+}
+p{
+  font-weight: sans-serif;
+  line-height: 24px;
+  text-indent: 24px;
+  text-align: justify;
+  word-spacing: 5px;
+  text-shadow: 2px 2px lightgray;
+}
+p2{
+  font-weight: sans-serif;
+  line-height: 24px;
+  text-indent: 24px;
+  text-align: justify;
+  word-spacing: 2px;
+  text-shadow: 2px 4px lightgray;
+}
+h2{
+  font-family: 'Linux Libertine','Georgia', 'Times';
+ border-bottom: solid 2px gold; 
+}
+h3{
+  font-weight: sana-serif;
+  border-bottom: solid 2px darkgray; 
+}
+figure{
+  float:right;
+  padding: 5px;
+}
+.img1{
+  border: solid 3px orange;
+  float: left;
+}
+.gold1{
+  width: 100px;
+  height: 100px;
+}
+.img2{
+  border: solid 3px gray;
+  float: left;
+}
+.gold2{
+  width: 150px;
+  height: 150px;
+}
+.img3{
+  border: solid 3px lightgray;
+  float: left;
+}
+.gold3{
+  width: 150px;
+  height: 150px;
+}
+.img4{
+  border: solid 3px darkgoldenrod;
+  float: rigth;
+}
+.gold4{
+  width: 150px;
+  height: 150px;
+}
+.eye{
+  float: center;
+  border: solid 2px yellow;
+  padding: 5px;
+  text-align: center;
+}
+.po{
+   text-align: center;
+  font-weight: 400px;
+  border-bottom: solid 2px gold; 
+}
