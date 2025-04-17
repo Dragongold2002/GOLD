@@ -30,6 +30,10 @@ h2{
   font-weight: sana-serif;
   border-bottom: solid 2px darkgray; 
 }
+.h4{
+  font-weight: sana-serif;
+  border-bottom: solid 2px darkgray; 
+}
 figure{
   float:right;
   padding: 5px;
@@ -76,4 +80,29 @@ figure{
    text-align: center;
   font-weight: 400px;
   border-bottom: solid 2px gold; 
+}
+a{
+  text-decoration: none;
+  
+}
+a:hover{
+  text-decoration: underline;
+}
+
+a:active{
+  color:#233566;
+background-color: lightskyblue;
+}
+li{
+  font-size: 27px;
+}
+a{
+  color:black;
+  font-weight: bold;
+}
+ul{
+  list-style: none;
+}
+a:visited{
+  color:green;
 }
